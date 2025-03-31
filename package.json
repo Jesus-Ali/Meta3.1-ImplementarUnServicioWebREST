@@ -1,0 +1,14 @@
+{
+  "name": "version-1",
+  "version": "1.0.0",
+  "description": "La primera version de este servidor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
